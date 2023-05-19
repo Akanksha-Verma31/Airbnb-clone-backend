@@ -20,8 +20,7 @@ const app = express();
 app.use(express.json());
 
 const whiteList = [
-  'https://airbnb-clone0.netlify.app',
-  'https://airbnb-1.netlify.app',
+  'https://airbnb-clone-psi-sooty.vercel.app',
   'http://localhost:5173',
 ];
 
